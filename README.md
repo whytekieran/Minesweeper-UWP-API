@@ -25,4 +25,4 @@ Domain/Minesweeper/webapi/scores/{:key} | POST | This sends high scores to the A
 
 ## **_References_**
 I learned JAX-RS some time ago but the tutorials i used to first learn it are below, they contain everything i used and more:
-1[JAX-RS](https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
+1. [JAX-RS] (https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
