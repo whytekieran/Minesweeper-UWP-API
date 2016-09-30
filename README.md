@@ -24,5 +24,5 @@ Domain/Minesweeper/webapi/scores/{:key} | GET | This retrieves high scores from 
 Domain/Minesweeper/webapi/scores/{:key} | POST | This sends high scores to the API's database when the user wins and submits a score. The table being inserted into depends on the key provided.
 
 ## **_References_**
-I learned JAX-RS some time ago but the tutorials i used to first learn it are below, they contain everything i used and more:
+I learned JAX-RS some time ago but the tutorials i used to first learn it are below, they contain everything i used and more:<br>
 1. [JAX-RS] (https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
