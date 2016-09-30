@@ -19,7 +19,7 @@ played on the application. These tables have three fields. Id(int), username(var
 Here is a quick breakdown of the two different URL's
 
 URL| Method | Description
------------- | -------------
+----- | ------ | -------------
 Domain/Minesweeper/webapi/scores/{:key} | GET | This retrieves high scores from the API's database and sends them back. The table being read from depends on the key provided.
 Domain/Minesweeper/webapi/scores/{:key} | POST | This sends high scores to the API's database when the user wins and submits a score. The table being inserted into depends on the key provided.
 
